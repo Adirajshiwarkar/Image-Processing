@@ -9,7 +9,6 @@ Well-commented sections to facilitate learning and understanding of image proces
 Installation
 To set up the environment and use this project:
 
-
 Clone this repository to your local machine:
 bash
 Copy
